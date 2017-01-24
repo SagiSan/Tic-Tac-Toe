@@ -17,7 +17,8 @@ function draw(id){
       comPlayer();
     }
   }
-
+//last test
+//last test
 }
 
 function toggleSign() {
