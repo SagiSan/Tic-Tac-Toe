@@ -17,8 +17,8 @@ function draw(id){
       comPlayer();
     }
   }
-  
-  //some test change for git
+  //test
+  //test2
 }
 
 function toggleSign() {
